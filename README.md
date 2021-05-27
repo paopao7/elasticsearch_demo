@@ -2,4 +2,4 @@
 
 elasticsearch相关.md下有对应的示例，可供参考
 
-Java版本的可参考该链接：https://gitee.com/hppwz/es_springdata
+Java版本的可参考该链接：https://github.com/paopao7/es_springdata
