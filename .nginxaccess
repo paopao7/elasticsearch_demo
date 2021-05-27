@@ -1,0 +1,2 @@
+rewrite ^/(.*).html$ /index.php?_url=/$1 last;
+rewrite ^/(.*)$ /index.php?_url=/$1 last;
